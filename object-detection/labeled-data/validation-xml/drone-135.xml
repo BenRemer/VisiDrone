@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Drone-600x340-Dataset</folder>
+	<filename>drone-135.JPG</filename>
+	<path>C:\Users\Austi\Downloads\Junior Design\Drone-600x340-Dataset\drone-135.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>97</ymin>
+			<xmax>309</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>
